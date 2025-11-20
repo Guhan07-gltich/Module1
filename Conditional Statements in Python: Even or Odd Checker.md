@@ -19,10 +19,6 @@ if a%2==0:
 else:
     print("ODD")
 ```
-```
-Name:RAJA GOPAL V
-Reg No:212223240134
-```
 ## Output
 
 ![17486810555376662276255916574025](https://github.com/user-attachments/assets/7aefb97f-e676-4f0b-bc17-4c463954dcb2)
